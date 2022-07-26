@@ -12,7 +12,7 @@
 ### Resources for STEM students
 - [Machine Learning for Scientists](https://ml-lectures.org): see also [arXiv:2102.04883](https://arxiv.org/abs/2102.04883)
 - [A high-bias, low-variance introduction to Machine Learning for physicists](https://arxiv.org/abs/1803.08823)
-- Machine Learning for Physicists lecture by Florian Marquardt: [basic lectures](https://machine-learning-for-physicists.org/) and [advanced lectures](https://pad.gwdg.de/2021_AdvancedMachineLearningForScience)
+- Machine Learning for Physicists lecture by Florian Marquardt: [basic](https://machine-learning-for-physicists.org/) and [advanced lectures](https://pad.gwdg.de/2021_AdvancedMachineLearningForScience)
 
 ### Machine Learning Libraries
 
