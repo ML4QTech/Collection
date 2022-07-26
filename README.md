@@ -8,6 +8,6 @@
 
 ## Basics of Machine Learning: Useful Offline Resources
 
-[Neural Networks and Deep Learning by Michael Nielsen]{http://neuralnetworksanddeeplearning.com/}: Basic and intuitive introduction to neural networks, supervised learning and the backpropagation algorithm
+[Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com): Basic and intuitive introduction to neural networks, supervised learning and the backpropagation algorithm
 
 
