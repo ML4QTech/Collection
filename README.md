@@ -3,6 +3,7 @@
 ## Basics of Machine Learning
 
 ### General resources
+- [Basics of Neural Networks](https://www.dkriesel.com/en/science/neural_networks): Lightweight introduction to machine learning and neural networks
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com): Basic, compact and intuitive introduction to neural networks, supervised learning and the backpropagation algorithm
 - [Deep Learning](https://www.deeplearningbook.org/): A detailed introduction to the field of machine learning
 - [Dive into Deep Learning](https://d2l.ai/): An interactive deep learning book with code, math, and discussions
