@@ -30,7 +30,6 @@ and many more
 
 Here we collect repositories that demonstrate works on AI in quantum technology. If you have additonal suggestions, please make a PR or send to [ML4QTech@mpl.mpg.de](ML4QTech@mpl.mpg.de)
 
-https://github.com/Qottmann/phase-discovery-anomaly-detection
 ### Measurement data analysis and quantum state representation
 #### Interpreting Measurements
 
