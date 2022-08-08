@@ -50,5 +50,5 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 #### Quantum control tasks without feedback (open-loop control)
 - [**Reinforcement Learning in Different Phases of Quantum Control**](https://github.com/mgbukov/dynamicQL/tree/master/SA) by Bukov, Day, Sels, Weinberg, Polkovnikov, Mehta ([paper](https://doi.org/https://doi.org/10.1103/PhysRevX.8.031086))
 
-####
+#### Quantum feedback control (closed-loop control)
 - [**Deep Reinforcement Learning Control of Quantum Cartpoles**](https://github.com/Z-T-WANG/DeepReinforcementLearningControlOfQuantumCartpoles) by Wang, Ashida, Ueda ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.100401))
