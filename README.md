@@ -3,6 +3,10 @@
 
 #### contact: ML4qtech@mpl.mpg.de
 
+<p align="center">
+   <img src="https://github.com/ML4QTech/Collection/blob/main/overview.png" alt="Overview" width="999px">
+</p>
+
 ## Basics of Artificial Intelligence and Machine Learning
 
 ### General resources
