@@ -80,3 +80,7 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 
 #### Quantum Circuits
 - [**Quantum computer-aided design of quantum optics hardware**](https://github.com/kottmanj/Photonic) by Kottmann, Krenn, Kyaw, Alperin-Lea, Aspuru-Guzik ([paper](https://iopscience.iop.org/article/10.1088/2058-9565/abfc94/meta))
+
+
+### 5) Quantum Error Correction
+- [**Automated Discovery of Autonomous Quantum Error Correction Schemes**](https://github.com/stanfordLINQS/SQcircuit/) by Rajabzadeh, Wang, Lee, Makihara, Guo, Safavi-Naeini ([paper](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.020302))
