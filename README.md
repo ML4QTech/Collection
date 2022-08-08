@@ -63,6 +63,7 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 #### Discovery of Quantum Experiments
 - [**Automated Search for new Quantum Experiments**](https://github.com/XuemeiGu/MelvinPython) by Krenn, Malik, Fickler, Lapkiewicz, Zeilinger, implemented by Gu ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.090405))
 - [**Conceptual Understanding through Efficient Automated Design of Quantum Optical Experiments**](https://github.com/aspuru-guzik-group/Theseus) by Krenn, Kottmann, Tischler, Aspuru-Guzik ([paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031044))
+- [**Designing quantum experiments with a genetic algorithm**](https://github.com/paulk444/AdaQuantum) by Nichols, Mineh, Rubio, Matthews, Knott ([paper](https://iopscience.iop.org/article/10.1088/2058-9565/ab4d89))
 - [**Automated design of superconducting circuits and its application to 4-local couplers**](https://github.com/aspuru-guzik-group/scilla) by Menke, Häse, Gustavsson, Kerman, Oliver, Aspuru-Guzik ([paper](https://www.nature.com/articles/s41534-021-00382-6))
 
 #### Quantum Circuits
