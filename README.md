@@ -56,3 +56,5 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 
 #### Model-free vs model-based RL
 - [**Speedup for quantum optimal control from automatic differentiation based on graphics processing units**](https://github.com/SchusterLab/quantum-optimal-control) by Leung, Abdelhafez, Koch, Schuster ([paper](https://doi.org/10.1103/PhysRevA.95.042318))
+- [**A differentiable programming method for quantum control**](https://github.com/frankschae/A-differentiable-programming-method-for-quantum-control) by Schäfer, Kloc, Bruder, Lörch ([paper](https://doi.org/10.1088/2632-2153/ab9802))
+- [**Protocol Discovery for the Quantum Control of Majoranas by Differentiable Programming and Natural Evolution Strategies**](https://github.com/LuukCoopmans/Majorana-Game) by Coopmans, Luo, Kells, Clark, Carrasquilla ([paper](https://doi.org/10.1103/PRXQuantum.2.020332))
