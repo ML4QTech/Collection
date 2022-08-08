@@ -49,7 +49,7 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 - [**Efficiently measuring a quantum device using machine learning**](https://github.com/returnddd/CVAE_for_QE) by Lennon, Moon, Camenzind, Yu, Zumbühl, Briggs, Osborne, Laird, Ares ([paper](https://www.nature.com/articles/s41534-019-0193-4))
 
 #### Quantum Hamiltonian Learning
-- [** **](https://github.com/flynnbr11/QMLA) by Gentile, Flynn, Knauer, Wiebe, Paesani, Granade, Rarity, Santagati, Laing ([paper](https://www.nature.com/articles/s41567-021-01201-7))
+- [**Learning models of quantum systems from experiments**](https://github.com/flynnbr11/QMLA) by Gentile, Flynn, Knauer, Wiebe, Paesani, Granade, Rarity, Santagati, Laing ([paper](https://www.nature.com/articles/s41567-021-01201-7))
 
 ### 3) Discovering strategies for hardware-level quantum control
 
