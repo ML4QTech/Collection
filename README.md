@@ -44,3 +44,8 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 
 #### Quantum Circuits
 - [**Quantum computer-aided design of quantum optics hardware**](https://github.com/kottmanj/Photonic) by Kottmann, Krenn, Kyaw, Alperin-Lea, Aspuru-Guzik ([paper](https://iopscience.iop.org/article/10.1088/2058-9565/abfc94/meta))
+
+### Discovering strategies for hardware-level quantum control
+
+#### Quantum control tasks without feedback (open-loop control)
+- [**Reinforcement Learning in Different Phases of Quantum Control**](https://github.com/mgbukov/dynamicQL/tree/master/SA) by Bukov, Day, Sels, Weinberg, Polkovnikov, Mehta ([paper](https://doi.org/https://doi.org/10.1103/PhysRevX.8.031086))
