@@ -35,15 +35,8 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 
 - [**Unsupervised Phase Discovery with Deep Anomaly Detection**](https://github.com/Qottmann/phase-discovery-anomaly-detection) by Kottmann, Huembeli, Lewenstein, Acín ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.170603))
 
-### Discovering quantum experiments, protocols, and circuits
-
-#### Discovery of Quantum Experiments
-- [**Automated Search for new Quantum Experiments**](https://github.com/XuemeiGu/MelvinPython) by Krenn, Malik, Fickler, Lapkiewicz, Zeilinger, implemented by Gu ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.090405))
-- [**Conceptual Understanding through Efficient Automated Design of Quantum Optical Experiments**](https://github.com/aspuru-guzik-group/Theseus) by Krenn, Kottmann, Tischler, Aspuru-Guzik ([paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031044))
-- [**Automated design of superconducting circuits and its application to 4-local couplers**](https://github.com/aspuru-guzik-group/scilla) by Menke, Häse, Gustavsson, Kerman, Oliver, Aspuru-Guzik ([paper](https://www.nature.com/articles/s41534-021-00382-6))
-
-#### Quantum Circuits
-- [**Quantum computer-aided design of quantum optics hardware**](https://github.com/kottmanj/Photonic) by Kottmann, Krenn, Kyaw, Alperin-Lea, Aspuru-Guzik ([paper](https://iopscience.iop.org/article/10.1088/2058-9565/abfc94/meta))
+#### Approximating Quantum Dynamics
+- [**Learning quantum dynamics with latent neural ordinary differential equations**](https://github.com/aspuru-guzik-group/QNODE) by Choi, Flam-Spepherd, Kyaw, Aspuru-Guzik ([paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.042403))
 
 ### Discovering strategies for hardware-level quantum control
 
@@ -59,3 +52,14 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 - [**A differentiable programming method for quantum control**](https://github.com/frankschae/A-differentiable-programming-method-for-quantum-control) by Schäfer, Kloc, Bruder, Lörch ([paper](https://doi.org/10.1088/2632-2153/ab9802))
 - [**Protocol Discovery for the Quantum Control of Majoranas by Differentiable Programming and Natural Evolution Strategies**](https://github.com/LuukCoopmans/Majorana-Game) by Coopmans, Luo, Kells, Clark, Carrasquilla ([paper](https://doi.org/10.1103/PRXQuantum.2.020332))
 - [**Control of stochastic quantum dynamics by differentiable programming**](https://github.com/frankschae/Control-of-Stochastic-Quantum-Dynamics-with-Differentiable-Programming) by Schäfer, Sekatski, Koppenhöfer, Bruder, Kloc ([paper](https://doi.org/10.1088/2632-2153/abec22))
+
+
+### Discovering quantum experiments, protocols, and circuits
+
+#### Discovery of Quantum Experiments
+- [**Automated Search for new Quantum Experiments**](https://github.com/XuemeiGu/MelvinPython) by Krenn, Malik, Fickler, Lapkiewicz, Zeilinger, implemented by Gu ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.090405))
+- [**Conceptual Understanding through Efficient Automated Design of Quantum Optical Experiments**](https://github.com/aspuru-guzik-group/Theseus) by Krenn, Kottmann, Tischler, Aspuru-Guzik ([paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031044))
+- [**Automated design of superconducting circuits and its application to 4-local couplers**](https://github.com/aspuru-guzik-group/scilla) by Menke, Häse, Gustavsson, Kerman, Oliver, Aspuru-Guzik ([paper](https://www.nature.com/articles/s41534-021-00382-6))
+
+#### Quantum Circuits
+- [**Quantum computer-aided design of quantum optics hardware**](https://github.com/kottmanj/Photonic) by Kottmann, Krenn, Kyaw, Alperin-Lea, Aspuru-Guzik ([paper](https://iopscience.iop.org/article/10.1088/2058-9565/abfc94/meta))
