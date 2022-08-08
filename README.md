@@ -30,6 +30,12 @@ and many more
 
 Here we collect repositories that demonstrate works on AI in quantum technology. If you have additonal suggestions, please make a PR or send to [ML4QTech@mpl.mpg.de](ML4QTech@mpl.mpg.de)
 
+https://github.com/Qottmann/phase-discovery-anomaly-detection
+### Measurement data analysis and quantum state representation
+#### Interpreting Measurements
+
+- [**Unsupervised Phase Discovery with Deep Anomaly Detection**](https://github.com/Qottmann/phase-discovery-anomaly-detection) by Kottmann, Huembeli, Lewenstein, Acín ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.170603))
+
 ### Discovering quantum experiments, protocols, and circuits
 
 #### Discovery of Quantum Experiments
