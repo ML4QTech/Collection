@@ -1,6 +1,9 @@
-# Machine Learning For Quantum Technologies
+# Artificial Intelligence and Machine Learning For Quantum Technologies
+### **[Mario Krenn](https://mpl.mpg.de/research-at-mpl/independent-research-groups/krenn-research-group/), Jonas Landgraf, Thomas Foesel, [Florian Marquardt](https://mpl.mpg.de/divisions/marquardt-division)**
 
-## Basics of Machine Learning
+#### contact: ML4qtech@mpl.mpg.de
+
+## Basics of Artificial Intelligence and Machine Learning
 
 ### General resources
 - [Basics of Neural Networks](https://www.dkriesel.com/en/science/neural_networks): Lightweight introduction to machine learning and neural networks
@@ -23,3 +26,12 @@
 - [Stable Baselines](https://stable-baselines.readthedocs.io)
 and many more
 
+## AI for Quantum Technology
+
+Here we collect repositories that demonstrate works on AI in quantum technology. If you have additonal suggestions, please make a PR or send to [ML4QTech@mpl.mpg.de](ML4QTech@mpl.mpg.de)
+
+### Discovering quantum experiments, protocols, and circuits
+
+#### Discovery of Quantum Experiments
+- [**Conceptual Understanding through Efficient Automated Design of Quantum Optical Experiments**](https://github.com/aspuru-guzik-group/Theseus) by Krenn, Kottmann, Tischler, Aspuru-Guzik ([paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031044))
+- [**Automated design of superconducting circuits and its application to 4-local couplers**](https://github.com/aspuru-guzik-group/scilla) by Menke, Häse, Gustavsson, Kerman, Oliver, Aspuru-Guzik ([paper](https://www.nature.com/articles/s41534-021-00382-6))
