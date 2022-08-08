@@ -52,3 +52,4 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 
 #### Quantum feedback control (closed-loop control)
 - [**Deep Reinforcement Learning Control of Quantum Cartpoles**](https://github.com/Z-T-WANG/DeepReinforcementLearningControlOfQuantumCartpoles) by Wang, Ashida, Ueda ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.100401))
+- [**Model-Free Quantum Control with Reinforcement Learning**](https://github.com/v-sivak/quantum-control-rl) by Sivak, Eickbusch, Royer, Tsioutsios, Devoret ([paper](https://doi.org/10.1103/PhysRevX.12.011059))
