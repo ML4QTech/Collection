@@ -75,5 +75,8 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 - [**Designing quantum experiments with a genetic algorithm**](https://github.com/paulk444/AdaQuantum) by Nichols, Mineh, Rubio, Matthews, Knott ([paper](https://iopscience.iop.org/article/10.1088/2058-9565/ab4d89))
 - [**Automated design of superconducting circuits and its application to 4-local couplers**](https://github.com/aspuru-guzik-group/scilla) by Menke, Häse, Gustavsson, Kerman, Oliver, Aspuru-Guzik ([paper](https://www.nature.com/articles/s41534-021-00382-6))
 
+#### Discovering Quantum Protocols and Discrete Feedback Strategies
+- [**Machine Learning for Long-Distance Quantum Communication**](https://github.com/qic-ibk/ps_quantum_comm) by Wallnöfer, Melnikov, Dür, Briegel ([paper](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.1.010301))
+
 #### Quantum Circuits
 - [**Quantum computer-aided design of quantum optics hardware**](https://github.com/kottmanj/Photonic) by Kottmann, Krenn, Kyaw, Alperin-Lea, Aspuru-Guzik ([paper](https://iopscience.iop.org/article/10.1088/2058-9565/abfc94/meta))
