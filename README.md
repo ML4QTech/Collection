@@ -41,3 +41,6 @@ https://github.com/Qottmann/phase-discovery-anomaly-detection
 #### Discovery of Quantum Experiments
 - [**Conceptual Understanding through Efficient Automated Design of Quantum Optical Experiments**](https://github.com/aspuru-guzik-group/Theseus) by Krenn, Kottmann, Tischler, Aspuru-Guzik ([paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031044))
 - [**Automated design of superconducting circuits and its application to 4-local couplers**](https://github.com/aspuru-guzik-group/scilla) by Menke, Häse, Gustavsson, Kerman, Oliver, Aspuru-Guzik ([paper](https://www.nature.com/articles/s41534-021-00382-6))
+
+#### Quantum Circuits
+- [**Quantum computer-aided design of quantum optics hardware**](https://github.com/kottmanj/Photonic) by Kottmann, Krenn, Kyaw, Alperin-Lea, Aspuru-Guzik ([paper](https://iopscience.iop.org/article/10.1088/2058-9565/abfc94/meta))
