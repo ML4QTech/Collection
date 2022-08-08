@@ -42,6 +42,12 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 #### Approximating Quantum Dynamics
 - [**Learning quantum dynamics with latent neural ordinary differential equations**](https://github.com/aspuru-guzik-group/QNODE) by Choi, Flam-Spepherd, Kyaw, Aspuru-Guzik ([paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.042403))
 
+### Parameter estimation: learning the properties of a quantum system
+#### Device calibration
+- [**Efficiently measuring a quantum device using machine learning**](https://github.com/returnddd/CVAE_for_QE) by Lennon, Moon, Camenzind, Yu, Zumbühl, Briggs, Osborne, Laird, Ares 
+
+ ([paper](https://www.nature.com/articles/s41534-019-0193-4))
+
 ### Discovering strategies for hardware-level quantum control
 
 #### Quantum control tasks without feedback (open-loop control)
