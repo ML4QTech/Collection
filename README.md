@@ -34,7 +34,7 @@ and many more
 
 Here we collect repositories that demonstrate works on AI in quantum technology. If you have additonal suggestions, please make a PR or send to [ML4QTech@mpl.mpg.de](ML4QTech@mpl.mpg.de)
 
-### Measurement data analysis and quantum state representation
+### 1) Measurement data analysis and quantum state representation
 #### Interpreting Measurements
 
 - [**Unsupervised Phase Discovery with Deep Anomaly Detection**](https://github.com/Qottmann/phase-discovery-anomaly-detection) by Kottmann, Huembeli, Lewenstein, Acín ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.170603))
@@ -42,13 +42,16 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 #### Approximating Quantum Dynamics
 - [**Learning quantum dynamics with latent neural ordinary differential equations**](https://github.com/aspuru-guzik-group/QNODE) by Choi, Flam-Spepherd, Kyaw, Aspuru-Guzik ([paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.042403))
 
-### Parameter estimation: learning the properties of a quantum system
+### 2) Parameter estimation: learning the properties of a quantum system
 #### Quantum Metrology
 - [**Generalizable control for quantum parameter estimation through reinforcement learning**](https://github.com/MilCOS/Quantum_Parameter_Estimation_with_RL) by Xu, Li, Liu, Wang, Yuan, Wang  ([paper](https://www.nature.com/articles/s41534-019-0198-z))
 #### Device calibration
 - [**Efficiently measuring a quantum device using machine learning**](https://github.com/returnddd/CVAE_for_QE) by Lennon, Moon, Camenzind, Yu, Zumbühl, Briggs, Osborne, Laird, Ares ([paper](https://www.nature.com/articles/s41534-019-0193-4))
 
-### Discovering strategies for hardware-level quantum control
+#### Quantum Hamiltonian Learning
+- [** **](https://github.com/flynnbr11/QMLA) by Gentile, Flynn, Knauer, Wiebe, Paesani, Granade, Rarity, Santagati, Laing ([paper](https://www.nature.com/articles/s41567-021-01201-7))
+
+### 3) Discovering strategies for hardware-level quantum control
 
 #### Quantum control tasks without feedback (open-loop control)
 - [**Reinforcement Learning in Different Phases of Quantum Control**](https://github.com/mgbukov/dynamicQL/tree/master/SA) by Bukov, Day, Sels, Weinberg, Polkovnikov, Mehta ([paper](https://doi.org/https://doi.org/10.1103/PhysRevX.8.031086))
@@ -64,7 +67,7 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 - [**Control of stochastic quantum dynamics by differentiable programming**](https://github.com/frankschae/Control-of-Stochastic-Quantum-Dynamics-with-Differentiable-Programming) by Schäfer, Sekatski, Koppenhöfer, Bruder, Kloc ([paper](https://doi.org/10.1088/2632-2153/abec22))
 
 
-### Discovering quantum experiments, protocols, and circuits
+### 4) Discovering quantum experiments, protocols, and circuits
 
 #### Discovery of Quantum Experiments
 - [**Automated Search for new Quantum Experiments**](https://github.com/XuemeiGu/MelvinPython) by Krenn, Malik, Fickler, Lapkiewicz, Zeilinger, implemented by Gu ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.090405))
