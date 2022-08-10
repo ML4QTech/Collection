@@ -47,7 +47,9 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 - [**Generalizable control for quantum parameter estimation through reinforcement learning**](https://github.com/MilCOS/Quantum_Parameter_Estimation_with_RL) by Xu, Li, Liu, Wang, Yuan, Wang  ([paper](https://www.nature.com/articles/s41534-019-0198-z))
 #### Device calibration
 - [**Efficiently measuring a quantum device using machine learning**](https://github.com/returnddd/CVAE_for_QE) by Lennon, Moon, Camenzind, Yu, Zumbühl, Briggs, Osborne, Laird, Ares ([paper](https://www.nature.com/articles/s41534-019-0193-4))
-
+#### Quantum state and process tomography
+- [**Quantum state tomography with conditional genreative adversarial networks**](https://github.com/quantshah/gd-qpt) by Shahnawaz Ahmed, Carlos Sánchez Muñoz, Franco Nori, and Anton Frisk Kockum ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.140502)) | ([code](https://github.com/quantshah/qst-cgan))
+- [**Gradient-descent quantum process tomography by learning Kraus operators**](https://github.com/quantshah/gd-qpt) by Shahnawaz Ahmed, Fernando Quijandría, Anton Frisk Kockum ([paper](https://arxiv.org/abs/2208.00812)) | ([code](https://github.com/quantshah/gd-qpt))
 #### Quantum Hamiltonian Learning
 - [**Learning models of quantum systems from experiments**](https://github.com/flynnbr11/QMLA) by Gentile, Flynn, Knauer, Wiebe, Paesani, Granade, Rarity, Santagati, Laing ([paper](https://www.nature.com/articles/s41567-021-01201-7))
 
