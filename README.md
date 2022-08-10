@@ -88,7 +88,8 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 - [**Machine Learning for Long-Distance Quantum Communication**](https://github.com/qic-ibk/ps_quantum_comm) by Wallnöfer, Melnikov, Dür, Briegel ([paper](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.1.010301))
 
 #### Quantum Circuits
-- [**Quantum computer-aided design of quantum optics hardware**](https://github.com/kottmanj/Photonic) by Kottmann, Krenn, Kyaw, Alperin-Lea, Aspuru-Guzik ([paper](https://iopscience.iop.org/article/10.1088/2058-9565/abfc94/meta))
+- [**Quantum computer-aided design of quantum optics hardware**](https://github.com/kottmanj/Photonic) by Kottmann, Krenn, Kyaw, Alperin-Lea, Aspuru-Guzik ([paper](https://iopscience.iop.org/article/10.1088/2058-9565/abfc94/meta))  
+- [**Automatically differentiable circuits for chemistry](https://github.com/tequilahub/tequila) by Kottmann, Anand, Aspuru-Guzik ([paper](https://arxiv.org/abs/2011.05938))  
 
 
 ### 5) Quantum Error Correction
