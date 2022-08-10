@@ -60,6 +60,9 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 #### Quantum Hamiltonian Learning
 - [**Learning models of quantum systems from experiments**](https://github.com/flynnbr11/QMLA) by Gentile, Flynn, Knauer, Wiebe, Paesani, Granade, Rarity, Santagati, Laing ([paper](https://www.nature.com/articles/s41567-021-01201-7))
 
+#### Learning Ground States from Hamiltonians
+[**Meta-VQEs learning quantum circuit angles from physical parameters**](https://github.com/aspuru-guzik-group/meta-VQE) by Cervera-Lierta, Kottmann, Aspuru-Guzik ([paper](https://arxiv.org/abs/2009.13545))
+
 ### 3) Discovering strategies for hardware-level quantum control
 
 #### Quantum control tasks without feedback (open-loop control)
@@ -88,8 +91,8 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 - [**Machine Learning for Long-Distance Quantum Communication**](https://github.com/qic-ibk/ps_quantum_comm) by Wallnöfer, Melnikov, Dür, Briegel ([paper](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.1.010301))
 
 #### Quantum Circuits
-- [**Quantum computer-aided design of quantum optics hardware**](https://github.com/kottmanj/Photonic) by Kottmann, Krenn, Kyaw, Alperin-Lea, Aspuru-Guzik ([paper](https://iopscience.iop.org/article/10.1088/2058-9565/abfc94/meta))
-
+- [**Quantum computer-aided design of quantum optics hardware**](https://github.com/kottmanj/Photonic) by Kottmann, Krenn, Kyaw, Alperin-Lea, Aspuru-Guzik ([paper](https://iopscience.iop.org/article/10.1088/2058-9565/abfc94/meta))  
+- [**Automatically differentiable circuits for chemistry**](https://github.com/tequilahub/tequila) by Kottmann, Anand, Aspuru-Guzik ([paper](https://arxiv.org/abs/2011.05938))  
 
 ### 5) Quantum Error Correction
 - [**Automated Discovery of Autonomous Quantum Error Correction Schemes**](https://github.com/stanfordLINQS/SQcircuit/) by Rajabzadeh, Wang, Lee, Makihara, Guo, Safavi-Naeini ([paper](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.020302))
