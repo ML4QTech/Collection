@@ -89,7 +89,9 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 
 #### Quantum Circuits
 - [**Quantum computer-aided design of quantum optics hardware**](https://github.com/kottmanj/Photonic) by Kottmann, Krenn, Kyaw, Alperin-Lea, Aspuru-Guzik ([paper](https://iopscience.iop.org/article/10.1088/2058-9565/abfc94/meta))  
-- [**Automatically differentiable circuits for chemistry](https://github.com/tequilahub/tequila) by Kottmann, Anand, Aspuru-Guzik ([paper](https://arxiv.org/abs/2011.05938))  
+- [**Automatically differentiable circuits for chemistry**](https://github.com/tequilahub/tequila) by Kottmann, Anand, Aspuru-Guzik ([paper](https://arxiv.org/abs/2011.05938))  
+- [**Meta-VQEs learning quantum circuit angles from physical parameters**](https://github.com/aspuru-guzik-group/meta-VQE) by Cervera-Lierta, Kottmann, Aspuru-Guzik ([https://arxiv.org/abs/2009.13545])
+- 
 
 
 ### 5) Quantum Error Correction
