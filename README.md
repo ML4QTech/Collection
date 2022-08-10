@@ -1,7 +1,7 @@
-# Artificial Intelligence and Machine Learning For Quantum Technologies
-### **[Mario Krenn](https://mpl.mpg.de/research-at-mpl/independent-research-groups/krenn-research-group/), Jonas Landgraf, Thomas Foesel, [Florian Marquardt](https://mpl.mpg.de/divisions/marquardt-division)**
-
-#### contact: ML4qtech@mpl.mpg.de
+## Artificial Intelligence and Machine Learning For Quantum Technologies
+by **[Mario Krenn](https://mpl.mpg.de/research-at-mpl/independent-research-groups/krenn-research-group/), Jonas Landgraf, Thomas Foesel, [Florian Marquardt](https://mpl.mpg.de/divisions/marquardt-division)**\
+Perspective Paper: [arXiv:2208.03836 (2022)](https://arxiv.org/abs/2208.03836)\
+contact: ML4qtech@mpl.mpg.de
 
 <p align="center">
    <img src="https://github.com/ML4QTech/Collection/blob/main/overview.png" alt="Overview" width="999px">
@@ -30,7 +30,7 @@
 - [Stable Baselines](https://stable-baselines.readthedocs.io)
 and many more
 
-## AI for Quantum Technology
+## AI for Quantum Technology - Repos from the Community
 
 Here we collect repositories that demonstrate works on AI in quantum technology. If you have additonal suggestions, please make a PR or send to [ML4QTech@mpl.mpg.de](ML4QTech@mpl.mpg.de)
 
