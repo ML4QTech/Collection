@@ -43,13 +43,17 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 
 ### 1) Measurement data analysis and quantum state representation
 #### Interpreting Measurements
-
 - [**Unsupervised Phase Discovery with Deep Anomaly Detection**](https://github.com/Qottmann/phase-discovery-anomaly-detection) by Kottmann, Huembeli, Lewenstein, Acín ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.170603))
-#### Approximating Quantum Dynamics
-- [**Learning quantum dynamics with latent neural ordinary differential equations**](https://github.com/aspuru-guzik-group/QNODE) by Choi, Flam-Spepherd, Kyaw, Aspuru-Guzik ([paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.042403))
-#### Quantum state and process tomography
+
+#### Approximation of Quantum States
 - [**Quantum state tomography with conditional genreative adversarial networks**](https://github.com/quantshah/qst-cgan) by Ahmed, Muñoz, Nori, Frisk Kockum ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.140502))
 - [**Gradient-descent quantum process tomography by learning Kraus operators**](https://github.com/quantshah/gd-qpt) by Ahmed, Quijandría, Frisk Kockum ([paper](https://arxiv.org/abs/2208.00812))
+- [**Recurrent neural network wave functions**](https://github.com/mhibatallah/RNNWavefunctions) by Hibat-Allah, Ganahl, Hayward, Melko, Carrasquilla ([paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023358))
+- [**NetKet 3: Machine Learning Toolbox for Many-Body Quantum Systems**](https://github.com/netket/netket) by Vicentini, Hofmann, Szabó, Wu, Roth, Giuliani, Pescia, Nys, Vargas-Calderon, Astrakhantsev, Carleo ([paper](https://arxiv.org/abs/2112.10526))
+
+#### Approximating Quantum Dynamics
+- [**Learning quantum dynamics with latent neural ordinary differential equations**](https://github.com/aspuru-guzik-group/QNODE) by Choi, Flam-Spepherd, Kyaw, Aspuru-Guzik ([paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.042403))
+- [**Time-Dependent Variational Principle for Open Quantum Systems with Artificial Neural Networks**](https://github.com/markusschmitt/vmc_jax/tree/master/jVMC) by Reh, Schmitt, Gärttner ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.230501))
 
 ### 2) Parameter estimation: learning the properties of a quantum system
 #### Quantum Metrology
