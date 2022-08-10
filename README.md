@@ -3,11 +3,18 @@ by **[Mario Krenn](https://mpl.mpg.de/research-at-mpl/independent-research-group
 Perspective Paper: [arXiv:2208.03836 (2022)](https://arxiv.org/abs/2208.03836)\
 contact: ML4qtech@mpl.mpg.de
 
+&nbsp;<br />
+**Mini Index**\
+[I) Basics of Artificial Intelligence and Machine Learning](https://github.com/ML4QTech/Collection#basics-of-artificial-intelligence-and-machine-learning)\
+[II) AI for Quantum Technology - Repos from the Community](https://github.com/ML4QTech/Collection#ai-for-quantum-technology---repos-from-the-community)
+
+&nbsp;<br />
+&nbsp;<br />
 <p align="center">
    <img src="https://github.com/ML4QTech/Collection/blob/main/overview.png" alt="Overview" width="999px">
 </p>
 
-## Basics of Artificial Intelligence and Machine Learning
+## I) Basics of Artificial Intelligence and Machine Learning
 
 ### General resources
 - [Basics of Neural Networks](https://www.dkriesel.com/en/science/neural_networks): Lightweight introduction to machine learning and neural networks
@@ -30,7 +37,7 @@ contact: ML4qtech@mpl.mpg.de
 - [Stable Baselines](https://stable-baselines.readthedocs.io)
 and many more
 
-## AI for Quantum Technology - Repos from the Community
+## II) AI for Quantum Technology - Repos from the Community
 
 Here we collect repositories that demonstrate works on AI in quantum technology. If you have additonal suggestions, please make a PR or send to [ML4QTech@mpl.mpg.de](ML4QTech@mpl.mpg.de)
 
