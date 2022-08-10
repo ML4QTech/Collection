@@ -38,9 +38,11 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 #### Interpreting Measurements
 
 - [**Unsupervised Phase Discovery with Deep Anomaly Detection**](https://github.com/Qottmann/phase-discovery-anomaly-detection) by Kottmann, Huembeli, Lewenstein, Acín ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.170603))
-
 #### Approximating Quantum Dynamics
 - [**Learning quantum dynamics with latent neural ordinary differential equations**](https://github.com/aspuru-guzik-group/QNODE) by Choi, Flam-Spepherd, Kyaw, Aspuru-Guzik ([paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.042403))
+#### Quantum state and process tomography
+- [**Quantum state tomography with conditional genreative adversarial networks**](https://github.com/quantshah/qst-cgan) by Ahmed, Muñoz, Nori, Frisk Kockum ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.140502))
+- [**Gradient-descent quantum process tomography by learning Kraus operators**](https://github.com/quantshah/gd-qpt) by Ahmed, Quijandría, Frisk Kockum ([paper](https://arxiv.org/abs/2208.00812))
 
 ### 2) Parameter estimation: learning the properties of a quantum system
 #### Quantum Metrology
