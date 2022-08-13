@@ -100,3 +100,4 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 
 ### 5) Quantum Error Correction
 - [**Automated Discovery of Autonomous Quantum Error Correction Schemes**](https://github.com/stanfordLINQS/SQcircuit/) by Rajabzadeh, Wang, Lee, Makihara, Guo, Safavi-Naeini ([paper](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.020302))
+- [**Scalable Neural Decoder for Topological Surface Codes**](https://github.com/chaeyeunpark/UnionFind) by Meinerz, Park, Trebst ([paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.080505))
